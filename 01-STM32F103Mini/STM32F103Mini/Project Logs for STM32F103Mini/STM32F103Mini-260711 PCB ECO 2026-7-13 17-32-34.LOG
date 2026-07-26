@@ -1,0 +1,13 @@
+Change Designator: Invalid Designator
+Change Component Designator: OldDesignator=  NewDesignator=C9
+Change Component Designator: OldDesignator=D1 NewDesignator=U4
+Change Component Designator: OldDesignator=D2 NewDesignator=U6
+Change Net Name : Old Net Name=BOOT1 New Net Name=PB2
+Change Net Name : Old Net Name=NetD1_1 New Net Name=A
+Change Net Name : Old Net Name=NetD2_2 New Net Name=B
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component C9 100nF
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component R7 4.7k
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component R9 20R
+Add Class Member: Failed to add class member : Component  AMS1117-3.3
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component U4 SMF6.0CA
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component U6 SMF6.0CA

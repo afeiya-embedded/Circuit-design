@@ -1,0 +1,53 @@
+Change Component Comment : Designator=C? Old Comment=cc0603krx7r9bb104 New Comment=100nF
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Added Component: Designator=C2(C0603)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/CC0603KRX7R9BB104/15331.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "100nF ¡À10% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO(¹ú¾Þ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "ac125912035d415993ca9572d50418b1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C0603_L1.6-W0.8-H0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "62.992,31.496,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C14663"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CC0603KRX7R9BB104"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D+ Pin=J2-3
+Added Pin To Net: NetName=D+ Pin=U1-1
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=J2-2
+Added Pin To Net: NetName=D- Pin=U1-2
+Added Net: Name=D-
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-8
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=SWCLK Pin=J1-1
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J1-2
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=VCC3V Pin=J1-4
+Added Net: Name=VCC3V
+Added Pin To Net: NetName=VCC5V Pin=C2-1
+Added Pin To Net: NetName=VCC5V Pin=J2-1
+Added Pin To Net: NetName=VCC5V Pin=U1-5
+Added Net: Name=VCC5V
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component C2 100nF
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component J1 XH-4A

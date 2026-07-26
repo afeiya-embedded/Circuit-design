@@ -1,0 +1,121 @@
+Removed Pin From Net: NetName=SDA1 Pin=R9-1
+Added Component: Designator=J4(CONN-TH_4P-P2.50_XH-4A)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "白色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/XH-4A/38795.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flame Retardant Rating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "CONN-TH_4P-P2.50_XH-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x4P 间距:2.5mm 直插 系列:XH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOOMELE(博穆精密)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "XH-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "5fb049f4745545a5b3e6d8e7931866fa"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "CONN-TH_4P-P2.50_XH-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "492.125,224.409,0,180,0,0,0,17.913,-98.425"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins Structure"; Value = "1x4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plastic Material"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Series"; Value = "XH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplementary Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C37815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XH-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "X-Length of Bottom Edge on Board (Spacing Line)"; Value = "12.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Y-Width of Bottom Edge on Board"; Value = "5.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Z-Height of the Board"; Value = "7mm"; VariantName = "[No Variations]"
+Added Component: Designator=J5(CONN-TH_4P-P2.50_XH-4A)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "白色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/XH-4A/38795.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flame Retardant Rating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "CONN-TH_4P-P2.50_XH-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x4P 间距:2.5mm 直插 系列:XH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOOMELE(博穆精密)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "XH-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "5fb049f4745545a5b3e6d8e7931866fa"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "CONN-TH_4P-P2.50_XH-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "492.125,224.409,0,180,0,0,0,17.913,-98.425"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins Structure"; Value = "1x4P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Plastic Material"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Reference Series"; Value = "XH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplementary Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C37815"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "XH-4A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "X-Length of Bottom Edge on Board (Spacing Line)"; Value = "12.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Y-Width of Bottom Edge on Board"; Value = "5.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Z-Height of the Board"; Value = "7mm"; VariantName = "[No Variations]"
+Added Component: Designator=U7(CONN-TH_3P-P3.50_KF350-3.5-3P)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "绿色"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/KF350-3.5-3P/481511.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "CONN-TH_3P-P3.50_KF350-3.5-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "1x3P 3.5mm 直插 排数:1 每排P数:3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEFA(科发)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "KF350-3.5-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "66d6ea4170124c3f83d623ee30815f83"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "CONN-TH_3P-P3.50_KF350-3.5-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "444.881,271.653,0,0,0,0,-0.005,1.969,-137.795"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "直插"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of PINs Per Row"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions or Pins"; Value = "1x3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40℃~+105℃"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "插件,P=3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C474893"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "KF350-3.5-3P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (Max)"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge - AWG"; Value = "18~24"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wire Gauge - mm2"; Value = "0.75"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ3_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ3_3 Pin=R10-1
+Added Pin To Net: NetName=NetJ3_3 Pin=U4-1
+Added Pin To Net: NetName=NetJ3_3 Pin=U7-2
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=J4-4
+Added Pin To Net: NetName=NetJ3_4 Pin=R13-1
+Added Pin To Net: NetName=NetJ3_4 Pin=U6-2
+Added Pin To Net: NetName=NetJ3_4 Pin=U7-3
+Added Net: Name=NetJ3_4
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component J4 XH-4A
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component J5 XH-4A
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component U7 KF350-3.5-3P

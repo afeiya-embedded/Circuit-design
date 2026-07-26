@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=A Pin=U7-2
+Removed Pin From Net: NetName=B Pin=U7-3
+Change Designator: Invalid Designator
+Added Pin To Net: NetName=B Pin=U7-2
+Added Pin To Net: NetName=A Pin=U7-3
+Add Class Member: Failed to add class member : Component  AMS1117-3.3

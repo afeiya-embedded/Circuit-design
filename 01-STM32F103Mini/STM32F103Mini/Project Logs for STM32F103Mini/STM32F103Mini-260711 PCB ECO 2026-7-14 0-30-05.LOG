@@ -1,0 +1,4 @@
+Change Designator: Invalid Designator
+Change Component Designator: OldDesignator=U4 NewDesignator=D1
+Change Component Designator: OldDesignator=U6 NewDesignator=D2
+Add Class Member: Failed to add class member : Component  AMS1117-3.3

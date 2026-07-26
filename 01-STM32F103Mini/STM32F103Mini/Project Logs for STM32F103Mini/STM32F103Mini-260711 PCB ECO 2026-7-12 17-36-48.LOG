@@ -1,0 +1,120 @@
+Change Component Comment : Designator=X? Old Comment=x50328msb2gi New Comment=8MHz
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/CL10C200JB8NNNC/2000.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "20pF ¡À5% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG(ÈýÐÇ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "CL10C200JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "ac125912035d415993ca9572d50418b1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C0603_L1.6-W0.8-H0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "62.992,31.496,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C1648"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CL10C200JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/CL10C200JB8NNNC/2000.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "20pF ¡À5% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG(ÈýÐÇ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "CL10C200JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "ac125912035d415993ca9572d50418b1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C0603_L1.6-W0.8-H0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "62.992,31.496,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C1648"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CL10C200JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/CL10C200JB8NNNC/2000.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "20pF ¡À5% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG(ÈýÐÇ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "CL10C200JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "ac125912035d415993ca9572d50418b1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C0603_L1.6-W0.8-H0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "62.992,31.496,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C1648"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CL10C200JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(C0603)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/CL10C200JB8NNNC/2000.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "C0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "20pF ¡À5% 50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG(ÈýÐÇ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "CL10C200JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "ac125912035d415993ca9572d50418b1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "C0603_L1.6-W0.8-H0.8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "62.992,31.496,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C1648"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "CL10C200JB8NNNC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "C0G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "¡À5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "20pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=X?(FC-135R_L3.2-W1.5)
+Add component (AddParameter): Name = "AddInBom"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ConvertToPcb"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://item.szlcsc.com/datasheet/Q13FC13500004/33310.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Equivalent Series Resistance(ESR)"; Value = "70k¦¸"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FootprintName"; Value = "FC-135R_L3.2-W1.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Basic Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "32.768kHz ¡À20ppm 12.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "12.5pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "EPSON(°®ÆÕÉú)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ManufacturerPart"; Value = "Q13FC13500004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelId"; Value = "751105e878f044059ef0ee72de95f96e"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelName"; Value = "FC-135R_L3.2-W1.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ModelTransform"; Value = "125.984,59.055,0,0,0,0,0,0,0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Normal temperature Frequency Tolerance"; Value = "¡À20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40¡æ~+85¡æ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "SMD3215-2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SupplierPart"; Value = "C32346"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "Q13FC1350000400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ÌùÆ¬¾§Õñ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "32.768kHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=OSC32_IN Pin=C?-2
+Added Pin To Net: NetName=OSC32_OUT Pin=C?-2
+Added Pin To Net: NetName=OSC_IN Pin=C?-2
+Added Pin To Net: NetName=OSC_OUT Pin=C?-2
+Added Pin To Net: NetName=OSC32_OUT Pin=X?-1
+Added Pin To Net: NetName=OSC_OUT Pin=X?-1
+Added Pin To Net: NetName=OSC32_IN Pin=X?-2
+Added Pin To Net: NetName=OSC_IN Pin=X?-2
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component C? 20pF
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component C? 20pF
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component C? 20pF
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component C? 20pF
+Added Member To Class: ClassName=STM32F103Mini-V1 Member=Component X? 8MHz
